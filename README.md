@@ -11,3 +11,22 @@ Frontend: React, TypeScript, TailwindCSS, Vite, Electron
 Backend: Python для ИИ, Swagger
 
 В команде из 6 человек создали рабочий продукт, суть которого заключалась в решение проблем с двигателями на производстве с помощью анализа ИИ
+
+
+
+## ⚙️ Установка и запуск проекта
+
+### 1. Клонировать репозиторий
+
+```bash
+git clone https://github.com/movetron/Engine-analysis.git 
+
+cd Engine-analysis
+
+Установить зависимости
+
+npm install
+
+Запуск в режиме разработки
+
+npm run dev
