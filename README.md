@@ -6,7 +6,7 @@ https://drive.google.com/drive/folders/1L-ZwDWrOZCqDeLAB-n4VyCQeZzdvekiL?usp=sha
 
 Стек: 
 
-Frontend: React, TypeScript, Vite, Electron
+Frontend: React, TypeScript, TailwindCSS, Vite, Electron
 
 Backend: Python для ИИ, Swagger
 
